@@ -1,0 +1,5 @@
+PGHOST="hello-world-cluster.hello.com";
+PGPORT="5432"
+PGDB="StarDB"
+PGUSER="root";
+PGPASSWORD="SuperDB123";

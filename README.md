@@ -11,6 +11,7 @@ This repository contains code secrets that are intended for testing purposes.
 | GitLab            |   [GitLab](/code/GitLab.js) |
 | JWT               |   [JWT](/code/JWT.txt) |
 | Kubeconfig        |   [Kubeconfig](/code/Kubeconfig.yml)
+| PostgreSQL        |   [PostgreSQL](/code/PostgreSQL)
 | RSA Private Key   |   [RSA_Private_Key](/code/RSA_Private_Key) |
 | RSA Public Key    |   [RSA_Public_Key](/code/RSA_Public_Key) |
 | SSH               |   [SSH](/code/SSH) |
