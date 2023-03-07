@@ -7,6 +7,7 @@ This repository contains code secrets that are intended for testing purposes.
 | Secret            |   File Path |
 | -----------       |   ----------- |
 | AWS               |   [AWS](/code/AWS.sh) |
+| Bitbucket         |   [Bitbucket][/code/Bitbucket.java] |
 | GitLab            |   [GitLab](/code/GitLab.js) |
 | JWT               |   [JWT](/code/JWT.txt) |
 | RSA Private Key   |   [RSA_Private_Key](/code/RSA_Private_Key) |
