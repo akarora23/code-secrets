@@ -15,5 +15,6 @@ This repository contains code secrets that are intended for testing purposes.
 | Redis             |   [Redis](/code/Redis.yaml) |
 | RSA Private Key   |   [RSA_Private_Key](/code/RSA_Private_Key) |
 | RSA Public Key    |   [RSA_Public_Key](/code/RSA_Public_Key) |
-| SAML Auth Request |   [SAML_Auth_Request](/code/SAML_Auth_Request.xml)
+| SAML Auth Request |   [SAML_Auth_Request](/code/SAML_Auth_Request.xml) |
+| Slack             |   [Slack](/code/Slack) |
 | SSH               |   [SSH](/code/SSH) |
